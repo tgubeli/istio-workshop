@@ -1,5 +1,5 @@
 # Deploy version 3
-Execute the following configurations: 
+Execute the following istio configurations: 
 
 ```sh
 oc apply -f ./config/istio/destinationrules-all.yaml 
